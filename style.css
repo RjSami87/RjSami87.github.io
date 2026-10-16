@@ -22,4 +22,16 @@ p,li{
 a{
 	color: #2b50e6;
 }
+header{
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+li{
+	margin-bottom: 10px;
+}
+
+#contact p{
+	margin: 5px 0;
+}
 
